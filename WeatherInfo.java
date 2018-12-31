@@ -1,6 +1,4 @@
-//AliceZU3A1Q1
 //Alice Zhou
-//For: Mrs. Harris
 //May 21st, 2018
 //Weather Summary: this program allows the users to search for the weather of a Canadian city in April 2018.
 //Revision: None
